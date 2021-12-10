@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav,
+.page-footer {
+  background: #5e35b1;
+  padding: 0 10px;
+}
+
+.content {
+  min-height: calc(100vh - 70px - 227px);
+}
+
+.movies {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+}
+
+search-form {
+  position: relative;
+}
+
+.search-btn {
+  /* position: absolute;
+  top: 0;
+  right: 0.5rem; */
+}
+
+.hide-on-med-and-down {
+  text-transform: uppercase;
+}
+
+input.type {
+  margin-right: 10px;
+}
