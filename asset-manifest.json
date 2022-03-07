@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Kinosearch-react-movies-/static/css/main.c4b04712.chunk.css",
-    "main.js": "/Kinosearch-react-movies-/static/js/main.97c8f785.chunk.js",
-    "main.js.map": "/Kinosearch-react-movies-/static/js/main.97c8f785.chunk.js.map",
+    "main.css": "/Kinosearch-react-movies-/static/css/main.3620c127.chunk.css",
+    "main.js": "/Kinosearch-react-movies-/static/js/main.dc79b8ff.chunk.js",
+    "main.js.map": "/Kinosearch-react-movies-/static/js/main.dc79b8ff.chunk.js.map",
     "runtime-main.js": "/Kinosearch-react-movies-/static/js/runtime-main.4594b5bf.js",
     "runtime-main.js.map": "/Kinosearch-react-movies-/static/js/runtime-main.4594b5bf.js.map",
     "static/js/2.2d99f235.chunk.js": "/Kinosearch-react-movies-/static/js/2.2d99f235.chunk.js",
     "static/js/2.2d99f235.chunk.js.map": "/Kinosearch-react-movies-/static/js/2.2d99f235.chunk.js.map",
     "index.html": "/Kinosearch-react-movies-/index.html",
-    "static/css/main.c4b04712.chunk.css.map": "/Kinosearch-react-movies-/static/css/main.c4b04712.chunk.css.map",
+    "static/css/main.3620c127.chunk.css.map": "/Kinosearch-react-movies-/static/css/main.3620c127.chunk.css.map",
     "static/js/2.2d99f235.chunk.js.LICENSE.txt": "/Kinosearch-react-movies-/static/js/2.2d99f235.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4594b5bf.js",
     "static/js/2.2d99f235.chunk.js",
-    "static/css/main.c4b04712.chunk.css",
-    "static/js/main.97c8f785.chunk.js"
+    "static/css/main.3620c127.chunk.css",
+    "static/js/main.dc79b8ff.chunk.js"
   ]
 }
