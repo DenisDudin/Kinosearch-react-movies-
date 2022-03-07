@@ -3,7 +3,7 @@ function Movie(props) {
 
   return (
     <div id={imbdID} className="row">
-      <div className="col s12 m7">
+      <div className="col">
         <div className="card">
           <div className="card-image">
             {Poster === 'N/A' ? (

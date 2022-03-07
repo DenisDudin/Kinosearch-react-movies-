@@ -1,3 +1,7 @@
+function alertWork() {
+  alert('in the works')
+}
+
 function Header() {
   return <>
     <ul id="dropdown1" className="dropdown-content">
@@ -8,11 +12,11 @@ function Header() {
     </ul>
     <nav>
       <div className="nav-wrapper">
-        <a href="#!" className="brand-logo">Kinosearch</a>
+        <a href="#!" className="brand-logo">KinoSearch</a>
         <ul className="right hide-on-med-and-down">
-          <li><a href="#">Lists</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Login</a></li>
+          <li><a href="#" onClick={alertWork}>Lists</a></li>
+          <li><a href="#" onClick={alertWork}>About</a></li>
+          <li><a href="#" onClick={alertWork}>Login</a></li>
         </ul>
       </div>
     </nav>
